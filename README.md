@@ -10,7 +10,7 @@ _Epicodus Intro to Programming Week 1 independent project. Created a webpage wit
 
 ## Setup/Installation Requirements
 
-* _Go to proper GitHub Repository_
+* _Go to proper GitHub Repository on https://github.com/AshleyRayMaceli/portfolio_
 * _open index.html file in browser_
 
 ## Known Bugs
