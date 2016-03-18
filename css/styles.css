@@ -14,28 +14,39 @@ body {
 }
 
 a {
-  color: darkgrey;
+  color: #FF6347;
 }
 
 a:hover {
-  color: red;
+  color: #686868;
   text-decoration: none;
 }
 
 .about-me {
-  text-align: center;
   margin-bottom: 30px;
+}
+
+.about-me-text {
+  font-size: 18px;
+}
+
+.about-me h2 {
+  text-align: center;
 }
 
 .images {
   float: left;
-  width: 50%;
+  width: 30%;
   height: auto;
   margin-left: 30px;
   margin-right: 30px;
-  border-style: inset;
   border-color: darkgray;
   border-width: 2px;
+  padding: 20px;
+}
+
+.images {
+    border-radius: 50%;
 }
 
 .container {
@@ -69,11 +80,24 @@ a:hover {
 .education .row {
   margin-top: 15px;
   margin-bottom: 15px;
+  padding-bottom: 10px;
+
+}
+
+.btn {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
 }
 
 .glyphicon {
   font-size: 3em;
   display: block;
   text-align: center;
-  color: red;
+  color: #FF6347;
+}
+
+.bottom-text {
+  text-align: center;
+  margin-top: 10px;
 }
