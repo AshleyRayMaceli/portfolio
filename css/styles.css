@@ -14,7 +14,7 @@ body {
 }
 
 a {
-  color: #FF6347;
+  color: #FF3333;
 }
 
 a:hover {
@@ -94,7 +94,7 @@ a:hover {
   font-size: 3em;
   display: block;
   text-align: center;
-  color: #FF6347;
+  color: #FF3333;
 }
 
 .bottom-text {

@@ -6,7 +6,7 @@
 
 ## Description
 
-_Epicodus Intro to Programming Week 1 independent project. Created a webpage with information about the author. Meant to serve as a portfolio page_
+_Epicodus Intro to Programming Week 1 independent project. Created a webpage with information about the author. Meant to serve as a portfolio page._
 
 ## Setup/Installation Requirements
 
@@ -16,10 +16,11 @@ _Epicodus Intro to Programming Week 1 independent project. Created a webpage wit
 ## Known Bugs
 
 _Currently: Spacing issues with Bootstrap theme_
+_Dropdown menu added for smaller devices but no active links at the moment_
 
 ## Support and contact details
 
-_Please contact Ashley via email with issues_
+_Please contact Ashley via e-mail with issues_
 _ashley.maceli@gmail.com_
 
 ## Technologies Used
@@ -30,4 +31,4 @@ _HTML, CSS, Bootstrap_
 
 *MIT and GPL*
 
-Copyright (c) 2015 **_Epicodus & Ashley maceli_**
+Copyright (c) 2015 **_Epicodus & Ashley Maceli_**
