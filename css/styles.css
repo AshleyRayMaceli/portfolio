@@ -1,9 +1,25 @@
 .jumbotron {
-  text-align: center
+  text-align: center;
+  color: darkgray;
 }
 
 body {
   padding-top: 70px;
+}
+
+.about-me {
+  text-align: center;
+}
+
+.images {
+  float: left;
+  width: 50%;
+  height: auto;
+  margin-left: 30px;
+  margin-right: 30px;
+  border-style: inset;
+  border-color: darkgray;
+  border-width: 2px;
 }
 
 .container {
