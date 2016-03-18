@@ -9,3 +9,18 @@ body {
 .container {
   max-width: 1000px;
 }
+
+.large-front-page-elements {
+  text-align: center;
+}
+
+.split-front-page-elements {
+  text-align: center
+}
+
+.glyphicon {
+  font-size: 3em;
+  display: block;
+  text-align: center;
+  color: red;
+}
