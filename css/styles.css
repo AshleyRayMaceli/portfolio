@@ -7,8 +7,18 @@ body {
   padding-top: 70px;
 }
 
+a {
+  color: darkgrey;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+
 .about-me {
   text-align: center;
+  margin-bottom: 30px;
 }
 
 .images {
@@ -26,12 +36,33 @@ body {
   max-width: 1000px;
 }
 
-.large-front-page-elements {
+.github {
+  text-align: center;
+  background-color: lightgray;
+}
+
+.github .row {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.research {
   text-align: center;
 }
 
-.split-front-page-elements {
-  text-align: center
+.research .row {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.education {
+  text-align: center;
+  background-color: lightgray;
+}
+
+.eduation .row {
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .glyphicon {
