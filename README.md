@@ -35,7 +35,7 @@ _HTML, CSS, Bootstrap_
 
 ### License
 
-_The MIT License (MIT)
+The MIT License (MIT)
 
 Copyright (c) [2016] [Ashley Maceli]
 
