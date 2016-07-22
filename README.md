@@ -13,7 +13,7 @@ _Epicodus Intro to Programming Week 1 independent project. Created a webpage wit
 
 ##GitHub Pages Link
 
-http://ashleyraymaceli.github.io/portfolio_
+http://ashleyraymaceli.github.io/portfolio
 
 ## Setup/Installation Requirements
 
